@@ -19,7 +19,7 @@ Pré-requisitos: Certifique-se de ter o Java Development Kit (JDK) instalado no 
 Clonar o Repositório: Se o código estiver em um repositório GitHub, clone o repositório. 
 Caso contrário, copie o código para um arquivo local chamado Variaveis.java.
 
-git clone [https://github.com/seuusuario/variaveis-java.git](https://github.com/Felicio-Jessica/Informa-es-Veterin-rio-Pet)
+git clone https://github.com/Felicio-Jessica/Informa-es-Veterin-rio-Pet
 cd variaveis-java
 
 Compilar o Código: Navegue até o diretório onde o arquivo Variaveis.java está localizado e compile o código usando o comando abaixo:
